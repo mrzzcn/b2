@@ -1,0 +1,5 @@
+yarn.lock
+test.txt
+*.log
+node_modules
+.*
